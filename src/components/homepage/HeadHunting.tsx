@@ -33,12 +33,12 @@ export default function HeadHunting() {
             03
           </p>
           <p className="text-center text-[#7000FF] text-base font-bold mb-3 min-[1440px]:text-2xl">
-            Screening Potential Talent’s CV
+            {`Screening Potential Talent’s CV`}
           </p>
           <p className="text-center text-sm font-normal text-[#475568] min-[1440px]:text-base">
-            We will assess potential talent’s skills, experience, cultural fit,
+            {`We will assess potential talent’s skills, experience, cultural fit,
             and career goals, along with a reference checks to verify a
-            candidate's work history. 
+            candidate's work history. `}
           </p>
         </div>
         <div className="absolute w-[260px] h-[260px] min-[1440px]:w-[370px] min-[1440px]:h-[370px] bg-[#F4F3FF] p-10 rounded-full flex flex-col items-center justify-center top-1/2 left-0 -translate-y-1/2">
@@ -61,9 +61,9 @@ export default function HeadHunting() {
             Finalizing the Contract
           </p>
           <p className="text-center text-sm font-normal text-[#475568] min-[1440px]:text-base">
-            Once the client and the candidate agree on the terms, we will assist
+            {`Once the client and the candidate agree on the terms, we will assist
             in finalizing the job offer and securing the candidate's
-            confirmation of acceptance.
+            confirmation of acceptance.`}
           </p>
         </div>
         <div className="absolute w-[260px] h-[260px] min-[1440px]:w-[370px] min-[1440px]:h-[370px] bg-[#F4F3FF] p-6 rounded-full flex flex-col items-center justify-center bottom-[90px] left-[360px] min-[1440px]:bottom-[127px] min-[1440px]:left-[37%] min-[1920px]:left-[45%]">
